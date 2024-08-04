@@ -6,4 +6,3 @@ BMI = Weight/(Height*Height)
 We will use the BMI to determine whether the user is Overweight,Normal,or underweight.
 
 we have created a branch called new-feature
-we
